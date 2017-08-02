@@ -1,0 +1,61 @@
+html{margin: 10px 20px; 
+font-family: 'Roboto', sans-serif, bold;
+	}
+
+#logo{ 	
+		object-position: relative;
+		height: 150px;
+		margin: 100px
+		}
+ #login{font-weight: bold;
+ 		display: block;
+ 		background-color: blue;
+ 		border-radius: 3px;
+ 		padding: 6px 10px;
+ 		color: white
+
+ }
+ul{list-style-type: none; 
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: transparent;
+	}
+	.lucc{position: absolute; 
+		left: 35%;
+		display: block;
+		background-color: lightgrey
+		;
+	}
+	.yucc{position: absolute; 
+			left: 50%;
+			background-color: lightgrey
+			;
+			}
+	.succ{color: grey}
+li{ float: right;
+
+	
+	}
+li a{display: block;
+	color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black
+	}
+
+input[type=text] {
+    width: 600px;
+    height: 25px;
+    ;
+}
+#searchbar{width: 375px;
+    		height: 55px;
+    		position: relative;
+    		left: 15%;   
+ 	}
+
+
+
+
